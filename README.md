@@ -16,7 +16,7 @@ Este proyecto es una aplicación web para generar códigos QR mediante HTML, CSS
 
 1. Clona este repositorio en tu máquina local.
 
-  git clone https://github.com/viamazoba/tu-repositorio.git
+  git clone https://github.com/viamazoba/qr-code-component.git
 
 2. Navega hasta el directorio del proyecto
 
